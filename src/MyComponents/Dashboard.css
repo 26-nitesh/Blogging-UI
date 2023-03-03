@@ -1,0 +1,21 @@
+.sidebar {
+    background-color: #333333;
+    width: 200px;
+    height: "100vh";
+    position: fixed;
+    padding-top: "56px";
+    left: "0";
+  }
+  .nav-button {
+    color: white;
+    background-color:#333333;
+    border: none;
+    padding: 8px;
+    width: 100%;
+    text-align: left;
+  }
+  .test{
+    position: absolute;
+  margin-top: 57px;
+  margin-left: 200px;
+  }

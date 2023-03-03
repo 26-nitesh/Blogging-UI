@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "name": "ADMIN",
+      "email": "admin@admin",
+      "password": "root",
+      "id": 1
+    },
+    {
+      "name": "user",
+      "email": "user@user",
+      "password": "user",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "root@g",
+      "password": "root",
+      "id": 3
+    },
+    {
+      "name": "abc",
+      "email": "admin@admin",
+      "password": "root",
+      "about": "",
+      "id": 4
+    }
+  ]
+}
